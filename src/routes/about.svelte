@@ -1,7 +1,11 @@
 <svelte:head>
-	<title>About</title>
+	<title>About vcheeze</title>
 </svelte:head>
 
-<h1>About this site</h1>
+<h1>About vcheeze</h1>
 
-<p>This is the 'about' page. There's not much here.</p>
+<p>vcheeze is a passionate problem-solver.</p>
+<p>
+	That's awesome! Because, starting with himself, this world doesn't exactly
+	have a shortage of problems.
+</p>

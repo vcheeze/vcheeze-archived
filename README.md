@@ -1,4 +1,9 @@
-# vcheeze.github.io
-This page is built with [Sapper](https://sapper.svelte.dev), a framework for building [Svelte](https://svelte.dev) apps. Read more about Sapper and get started [here](https://github.com/sveltejs/sapper-template).
+# vcheeze
+This project contains the source code for [my GitHub page](https://vcheeze.github.io).
+It's built using [Sapper](https://sapper.svelte.dev), a framework for building 
+[Svelte](https://svelte.dev) apps.
 
-The [index.html](index.html) and [404.html](404.html) files are temporary and do not belong to the Sapper app. They are currently what GitHub recognizes, and should be taken down once I figure out how to generate static files from Sapper and host them here.
+Get the contents from the `__sapper__/export/` folder in your project and copy
+it to [vcheeze.github.io](https://github.com/vcheeze/vcheeze.github.io). This
+copies the sapper-generated static files so that GitHub Pages can serve them as
+a website. I will look into how to automate this process in the future.

@@ -33,14 +33,18 @@
 </style>
 
 <svelte:head>
-	<title>Vcheeze's Home</title>
+	<title>vcheeze's home</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>vcheeze's home!</h1>
 
 <figure>
 	<img alt='Borat' src='great-success.png'>
-	<figcaption>HIGH FIVE!</figcaption>
+	<figcaption>AWESOME</figcaption>
 </figure>
 
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<p><strong>You've landed on the home page of vcheeze.</strong></p>
+<p>
+	It's still being built right now...so take a look at what you can see and
+	anticipate what you can't see just yet!
+</p>
