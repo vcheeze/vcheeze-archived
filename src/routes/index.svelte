@@ -43,7 +43,7 @@
 	<figcaption>AWESOME</figcaption>
 </figure>
 
-<p><strong>You've landed on the home page of vcheeze.</strong></p>
+<p><strong>You've landed on the home page of <a href="https://github.com/vcheeze">vcheeze</a>.</strong></p>
 <p>
 	It's still being built right now...so take a look at what you can see and
 	anticipate what you can't see just yet!

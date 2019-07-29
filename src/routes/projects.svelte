@@ -1,7 +1,7 @@
 <svelte:head>
-  <title>Vcheeze's Page</title>
+  <title>vcheeze's projects</title>
 </svelte:head>
 
-<h1>Vcheeze</h1>
+<h1>projects</h1>
 
-<p>You have landed on Vcheeze's page. Excellent job!</p>
+<p>You have landed on vcheeze's project page. Excellent job!</p>

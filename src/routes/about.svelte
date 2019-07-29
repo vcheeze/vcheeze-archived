@@ -1,8 +1,8 @@
 <svelte:head>
-	<title>About vcheeze</title>
+	<title>about vcheeze</title>
 </svelte:head>
 
-<h1>About vcheeze</h1>
+<h1>about vcheeze</h1>
 
 <p>vcheeze is a passionate problem-solver.</p>
 <p>
