@@ -1,17 +1,20 @@
-import projects from './_projects.js';
+import projects from "./_projects.js";
 
-const contents = JSON.stringify(projects.map(post => {
-	return {
-    // TODO change this to map correctly to projects
-		// title: post.title,
-		// slug: post.slug
-	};
-}));
+const contents = JSON.stringify(
+  projects.map(project => {
+    return {
+      title: project.title,
+      slug: project.slug,
+      uri: project.uri,
+      description: project.description
+    };
+  })
+);
 
 export function get(req, res) {
-	res.writeHead(200, {
-		'Content-Type': 'application/json'
-	});
+  res.writeHead(200, {
+    "Content-Type": "application/json"
+  });
 
-	res.end(contents);
+  res.end(contents);
 }
